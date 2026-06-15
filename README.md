@@ -1,3 +1,4 @@
+An Ultra Low Power General Purpose Infrared (IR) Remote Controller is a microcontroller-based device or integrated circuit designed to transmit and/or receive infrared remote-control signals while consuming extremely little power. These controllers are commonly used in battery-powered products where long battery life is critical.
  
 # Description
 
