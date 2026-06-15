@@ -14,6 +14,16 @@ This design demonstrates an ultra-low-power, general-purpose infrared remote con
 
 * Software optimized for real-world remote controller applications in air conditioning. Easy to evaluate and ready to use.
 
+# Applications
+ 
+* Television remote controls
+* Set-top box remotes
+* Air-conditioner remotes
+* Smart lighting systems
+* Home automation products
+* Consumer electronics
+* Industrial equipment control
+
 # Support
 
 Thanks [Gekunflex](https://gekunflex.com/) for providing technical support and help for this program. 
