@@ -18,11 +18,11 @@ This design demonstrates an ultra-low-power, general-purpose infrared remote con
  
 * Television remote controls
 * Set-top box remotes
-* Air-conditioner remotes
-* Smart lighting systems
+ 
 * Home automation products
-* Consumer electronics
-* Industrial equipment control
+ 
+
+  
 
 # Support
 
